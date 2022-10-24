@@ -88,7 +88,7 @@ html {
 }
 
 .btn-primary,
-.btn-secondary .square { background: var(--red-orange-color-wheel); }
+.btn-secondary .square { background: rgb(0, 195, 255); }
 
 .btn .square {
   position: absolute;
@@ -227,7 +227,7 @@ html {
 .navbar .btn { display: none; }
 
 .nav-toggle-btn {
-  background: var(--red-orange-color-wheel);
+  background: rgb(0, 195, 255);
   width:  50px;
   height: 50px;
   border-radius: 8px;
@@ -963,7 +963,7 @@ html {
   transition: var(--default-transition);
 }
 
-.instructor-card .social-link a:hover { background: var(--red-orange-color-wheel); }
+.instructor-card .social-link a:hover { background: rgb(0, 195, 255); }
 
 .instructor-card:hover .social-link { bottom: 20px; }
 
@@ -1291,7 +1291,7 @@ footer { background: var(--oxford-blue); }
   right: 0;
   width:  62px;
   height: 62px;
-  background: var(--red-orange-color-wheel);
+  background: rgb(0, 195, 255);
   display:         flex;
   justify-content: center;
   align-items:     center;
